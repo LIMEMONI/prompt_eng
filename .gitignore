@@ -1,0 +1,15 @@
+# python cache
+__pycache__
+
+# misc
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+*/.env.local
+# database
+chromadb
+
+*/*.csv
+*/*/*.csv
